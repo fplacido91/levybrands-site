@@ -1,0 +1,74 @@
+{
+  "version": "1.1",
+  "effective_date": "2026-09-30",
+  "prepared_at_utc": "2026-09-30T22:38:31+00:00",
+  "archive_url": "https://levybrands.com/terms/v1-1",
+  "current_url": "https://levybrands.com/terms",
+  "previous_git_commit": "65a117fd47b75dc9c9156e145de59300a8fe414d",
+  "prior_archive_verification": {
+    "verified_at_utc": "2026-09-30T22:26:01+00:00",
+    "archive_commit": "65a117f",
+    "archive_url": "https://levybrands.com/terms/v1-0",
+    "page_http_status": 200,
+    "pdf_url": "https://levybrands.com/terms/v1-0/levybrands-terms-v1-0-effective-2026-08-25-archived-2026-09-30.pdf",
+    "pdf_http_status": 200,
+    "pdf_sha256": "2dcce48783b76dba767196dcb8a214e09dfe583111b1ebe386d2c3ae744ee283",
+    "pdf_http_date": "Wed, 30 Sep 2026 22:26:00 GMT",
+    "pdf_last_modified": "Wed, 30 Sep 2026 22:25:29 GMT"
+  },
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 36047,
+      "sha256": "7b3d4acbba7c77c6d843b60ef920fd160c8dd7ced89bc25facce5271b7a1c203"
+    },
+    {
+      "path": "public/dist/css/fonts.css",
+      "bytes": 7646,
+      "sha256": "0228bd508fe94c79b98c7258ee37d9be719f32c9f63927e2d6b23cdbbab8954c"
+    },
+    {
+      "path": "public/fonts/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1cwtDuDJAM23AZ.woff2",
+      "bytes": 29464,
+      "sha256": "8a2768ca71f8db60855e512408d497853be30eddb011d9845d25e62944457972"
+    },
+    {
+      "path": "public/fonts/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1czNDuDJAM2w.woff2",
+      "bytes": 35520,
+      "sha256": "203dd8ba4ae61b19cd2e00c66708f0d0f6d8484cdfdb1d7e8be37260d36a99b1"
+    },
+    {
+      "path": "public/fonts/Yq6R-LCVXSLy9uPBwlATrO96kjouQb5-6g.woff2",
+      "bytes": 18372,
+      "sha256": "f9146728b0c31c0ed7887cd8180696762d1ec2abc4f019fe91f24679b0e7e79b"
+    },
+    {
+      "path": "public/fonts/Yq6R-LCVXSLy9uPBwlATrOF6kjouQb4.woff2",
+      "bytes": 40520,
+      "sha256": "e0ea7bf0ba351883777665cb6d3a1f825387ec7a834e4fcbb8137f03a9bcff26"
+    },
+    {
+      "path": "public/fonts/Yq6T-LCVXSLy9uPBwlATrORKkDApY7xO6w.woff2",
+      "bytes": 41304,
+      "sha256": "aee5f214abdf3f1e90674311bb5c1d2e682a6680d3d5252d617654e039c042e6"
+    },
+    {
+      "path": "public/fonts/Yq6T-LCVXSLy9uPBwlATrORKnjApY7xO6-iz.woff2",
+      "bytes": 19280,
+      "sha256": "93a88efba57fa0f6c494ea4e438a0742c78c8e9eff9c0e8ab828d50a94fabf26"
+    },
+    {
+      "path": "terms.css",
+      "bytes": 5409,
+      "sha256": "5e224fa0fb3a2ab062aaa5c00e083506d45a77eabfbc1cc95420a64590eb4595"
+    }
+  ],
+  "pdf_generated_at_utc": "2026-09-30T22:39:21+00:00",
+  "pdf": {
+    "path": "levybrands-terms-v1-1-effective-2026-09-30.pdf",
+    "url": "https://levybrands.com/terms/v1-1/levybrands-terms-v1-1-effective-2026-09-30.pdf",
+    "bytes": 139670,
+    "sha256": "dd6e2edca8b6d8964de5a84607c80ec1bb79f14d28b6e9906fe88ba6d0162fd0",
+    "rendering": "Chromium Page.printToPDF from the frozen Version 1.1 source and print stylesheet, with its version, effective date, permanent URL and page count in the footer."
+  }
+}
